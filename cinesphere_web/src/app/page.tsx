@@ -1,9 +1,8 @@
+import Filmes from "./pages/filmes";
 export default function Home() {
   return (
     <>
-      <div>
-        Hello world
-      </div>
+      <Filmes/>
     </>
   );
 }
